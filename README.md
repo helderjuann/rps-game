@@ -4,4 +4,4 @@
 <hr>
 O jogo infantil que todo mundo conhece...
 
-Criei esse jogo baseado em algumas aulas que tive e gostaria de deixar registrado para acompanhar minha evolução...<br>
+Tive a ideia de criar esse jogo baseado em algumas aulas que tive e gostaria de deixar registrado para acompanhar minha evolução...<br>
